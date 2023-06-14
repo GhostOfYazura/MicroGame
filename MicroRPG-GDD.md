@@ -41,12 +41,12 @@ You’re adventuring between 2 towns as the protector, not a worldly hero but a 
 
 ### Story
 ---
-# Overview:
+Overview:
 - The player shouldn't have story shoved down their throat.
 - The player should feel like there is subtle hints about this world that might reflect an overarching feeling of the developers.
 - The main character is meant to express their alienation to the towns they're helping by expressing their individualism and heroicism.
 
-The protagnoist asks at one point: *"Why is everyone wearing a mask? I've never worn one myself. Are they really all that great?"*</br>
+The protagnoist asks at one point: ***"Why is everyone wearing a mask? I've never worn one myself and... I'm just wondering, are they really all that great?"***</br>
 Leading the protagonist to ask some of the villagers questions when interacted with. However the protagonist gets very shallow or ignored when they ask these questions.</br></br>
 
 ### Upgrades
